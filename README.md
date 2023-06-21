@@ -1,16 +1,8 @@
 # quizz
 
-A new Flutter project.
+Flutter Application to pass quizz:
 
-## Getting Started
+<img src="https://github.com/fletoxIsHere/QuizzFlutter/assets/106785467/b646d9f1-4a5b-480f-8032-0ce579f10542" width="300">
+<img src="https://github.com/fletoxIsHere/QuizzFlutter/assets/106785467/aa954e78-2396-41e4-bfb8-a6602e90f9c3" width="300">
+<img src="https://github.com/fletoxIsHere/QuizzFlutter/assets/106785467/f56f171a-d2e4-4e55-a5c4-c5b6b6da59c9" width="300">
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
